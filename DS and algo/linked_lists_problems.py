@@ -272,9 +272,7 @@ class LinkedList:
         self.length = 0
 
     def partition_list(self, x):
-        current = self.head
-        for _ in range(self.length):
-            
+        current = self.head            
 
 
 ll = LinkedList(3)
